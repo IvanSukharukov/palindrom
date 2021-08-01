@@ -1,7 +1,7 @@
 <div class="container">
    <div class="wrapper">
       <h1>Приложение</h1>
-      <span>Веб-приложение, которое находит палиндромы</span>
+      <span>Веб-приложение, которое <span>находит палиндромы</span></span>
 
       <form method="post" action="" id="is_palindrom">
          <div>
